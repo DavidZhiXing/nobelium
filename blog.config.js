@@ -2,7 +2,7 @@ const BLOG = {
   title: 'ec50n9的网上后花园',
   author: 'ec50n9',
   email: 'shelloworld@qq.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://nobelium-ashen-one.vercel.app',
   description: '一个在亚热带季风气侯中生长的少年的碎碎念。',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -10,7 +10,7 @@ const BLOG = {
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // If leave this empty, current year will be used.
+  since: 2022, // If leave this empty, current year will be used.
   postsPerPage: 10,
   sortByDate: false,
   showAbout: true,
