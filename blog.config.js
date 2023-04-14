@@ -2,8 +2,8 @@ const BLOG = {
   title: 'Zane',
   author: 'Zane Davis',
   email: 'dudujingling@gmail.com',
-  link: 'https://zane.bio',
-  description: 'Zane's Home',
+  link: 'https://www.zane.bio',
+  description: 'Zane Home',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
